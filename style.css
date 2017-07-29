@@ -1,0 +1,49 @@
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+	text-align: center;
+	color: #000;
+	background: #66CDAA;
+}
+
+h1 {
+	color: #0CA5BF;
+}
+
+.wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.links {
+	margin-bottom: 20px;
+}
+
+#contentArea {
+	height: 50px;
+}
+
+.add {
+	text-decoration: none;
+	color: red;
+}
+
+.note {
+	background: #008080;
+	border: solid 1px black;
+	width: 20%;
+	min-height: 50px;
+	padding: 10px 15px;
+	margin: 15px;
+	color: black;
+	text-align: left;
+	display: inline-block;
+}
+
+#clearAreaBtn {
+	border:0px;
+	border-radius: 3px;
+	padding: 10px;
+	font-weight: bold;
+	background: #0CA5BF;
+	color: red;
+}
